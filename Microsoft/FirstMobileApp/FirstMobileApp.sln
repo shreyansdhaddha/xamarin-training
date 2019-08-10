@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMobileApp.Android", "FirstMobileApp.Android\FirstMobileApp.Android.csproj", "{76092A4A-7BDD-4945-B05C-906AC548F581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMobileApp", "FirstMobileApp\FirstMobileApp.csproj", "{C668891C-DB24-4F62-8B75-82F72CA38FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76092A4A-7BDD-4945-B05C-906AC548F581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76092A4A-7BDD-4945-B05C-906AC548F581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76092A4A-7BDD-4945-B05C-906AC548F581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76092A4A-7BDD-4945-B05C-906AC548F581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C668891C-DB24-4F62-8B75-82F72CA38FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C668891C-DB24-4F62-8B75-82F72CA38FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C668891C-DB24-4F62-8B75-82F72CA38FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C668891C-DB24-4F62-8B75-82F72CA38FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
