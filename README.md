@@ -1,2 +1,2 @@
-# xamarin-training
+# Xamarin Training
 Training modules for Xamarin
